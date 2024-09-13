@@ -7,3 +7,5 @@ Try to navigate to [/about](/about). These 2 pages are rendered by the `pages/[.
 ---
 
 Look at the [Content documentation](https://content.nuxtjs.org/) to learn more.
+
+![naber](/another-folder/sub-folder/1_org_zoom.jpg)
